@@ -1,2 +1,2 @@
 # ikanna-blog
-for blog
+for gitalk
